@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="HK",TVB News 無綫新聞
+http://www.liveviptv.xyz/tv/tvb.php
+
+#EXTINF:-1 group-title="HK",TVB Pearl 明珠台
+http://m.567it.com/Pearl.m3u8
+
+#EXTINF:-1 group-title="HK",TVB Jade 翡翠台
+http://m.567it.com/jade.m3u8
+
+#EXTINF:-1 group-title="HK",TVB Xinghe 星河频道
+http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+
+#EXTINF:-1 group-title="HK",Cable utvHK 有線電視
+https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+
+#EXTINF:-1 group-title="HK",HK OpenTV 香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 group-title="HK",HK ATV 亞洲電視
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+
+#EXTINF:-1 group-title="HK",RTHK31 港台電視31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 group-title="HK",RTHK32 港台電視32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8

@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="UK", ITV 2 [UK]
+http://fr01.spr24.net/15787/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", ITV 3 [UK]
+http://fr01.spr24.net/15811/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", ITV 4 [UK]
+http://fr01.spr24.net/15812/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", Channel 4 HD [UK]
+http://fr01.spr24.net/16492/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", Channel 4 [UK]
+http://fr01.spr24.net/16681/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", Channel 5 HD [UK]
+http://fr01.spr24.net/16987/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", E4 [UK]
+http://fr01.spr24.net/16986/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", 5STAR [UK]
+http://fr01.spr24.net/17004/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", Dave [UK]
+http://fr01.spr24.net/16994/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", Pick [UK]
+http://fr01.spr24.net/16997/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", Home [UK]
+http://fr01.spr24.net/17000/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", More4 [UK]
+http://fr01.spr24.net/16985/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", Really [UK]
+http://fr01.spr24.net/17001/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", TLC HD
+http://fr01.spr24.net/260/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="UK", TLC
+http://fr01.spr24.net/5152/index.m3u8?token=BQF9PmuRpcxUqR
+
+#EXTINF:-1 group-title="TLC", TLC Turk
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b846000_sltur.m3u8
+
+#EXTINF:-1 group-title="TLC", TLC RU
+http://188.35.9.15:21031/udp/037n
+
+#EXTINF:-1 group-title="TLC", TLC RU2
+https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
+
+#EXTINF:-1 group-title="TLC", TLC India
+http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
+
+#EXTINF:-1 group-title="TLC", TLC Suomi
+http://193.64.188.131:8021/bysid/145
+
+#EXTINF:-1 group-title="TLC", TLC Deutsch
+http://84.22.33.254/unicast.tlc/index.m3u8
+
+#EXTINF:-1 group-title="English", BOOMERANG 
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+
+#EXTINF:-1 group-title="English", CARTOON NETWORK
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
+
+#EXTINF:-1 group-title="English", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 group-title="English", DISNEY CHANNEL
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="English", DISCOVERY TURBO
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
+#EXTINF:-1 group-title="English", HISTORY 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+
+#EXTINF:-1 group-title="English", DISCOVERY SCIENCE
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
+#EXTINF:-1 group-title="English", DISCOVERY CHANNEL
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+
+#EXTINF:-1 group-title="English", DISCOVERY CHANNEL China
+http://itv.ahau.edu.cn/hls/discovery.m3u8
+
+#EXTINF:-1 group-title="English", HBO
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+
+#EXTINF:-1 group-title="English", FX
+http://111.13.111.192/125.227.198.89:8027
+
+#EXTINF:-1 group-title="English", AXN
+http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+
+#EXTINF:-1 group-title="English", AXN2
+http://210.210.155.66/h/h141/02.m3u8
+
+#EXTINF:-1 group-title="English", 9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+
+#EXTINF:-1 group-title="English", Docubox
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
+#EXTINF:-1 group-title="English", History2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
+#EXTINF:-1 group-title="English", National Geo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 group-title="English", National Geo China
+http://itv.ahau.edu.cn/hls/natlgeo.m3u8
+
+#EXTINF:-1 group-title="English", National Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 group-title="English", National Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 group-title="English", The Works MGM
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 group-title="English", Warner WB TV
+http://203.154.243.89:11205
+
+#EXTINF:-1 group-title="English", PLUTO TV Movies 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 group-title="English", PLUTO TV Frontdoor
+https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&adve
+
+#EXTINF:-1 group-title="English", PLUTO TV Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 group-title="English", PLUTO TV Flicks of Fury
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true

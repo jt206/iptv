@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="btvchild" group-title="Kids",卡酷少儿
+http://itv.ahau.edu.cn/hls/btv10.m3u8
+
+#EXTINF:-1 tvg-id="cctvchild" group-title="Kids",CCTV-14 HD
+http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
+
+#EXTINF:-1 tvg-id="cctvchild" aspect-ratio="4:3" group-title="Kids",CCTV-14
+http://itv.ahau.edu.cn/hls/cctv14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" tvg-country="TW" tvg-url="" group-title="Kids",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" tvg-country="TW" tvg-url="" group-title="Kids",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title="Kids",BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UK" tvg-url="" group-title="Kids",BBC Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSWGTV.us.png" group-title="Kids",PBS Kids 1
+http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSWGTV.us.png" group-title="Kids",PBS Kids 2
+http://live-cdn.pbskids.org/out/u/pst.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BabyFirstTV.us.png" group-title="Kids",BABY FIRSTS (TW)
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/Boomerang.ee.png" group-title="Kids",BOOMERANG (UAE)
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/CartoonNetwork.ee.png" group-title="Kids",CARTOON NETWORK HD
+https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids",DISNEY CHANNEL (USA)
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="Kids",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A.png" group-title="Kids",靖洋卡通 Nice Bingo
+http://61.58.60.230:9319/live/206.m3u8

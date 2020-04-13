@@ -32,3 +32,9 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HK",港台電視32 RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV99.hk.png" group-title="HK",ViuTV99
+http://hls.globaliptv.ml/viu99.php
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV96.hk.png" group-title="HK",ViuTVsix96
+http://hls.globaliptv.ml/viu96.php

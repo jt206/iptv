@@ -3,14 +3,23 @@
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBNews.hk.png" group-title="HK",無綫新聞台 TVB News
 http://www.liveviptv.xyz/tv/tvb.php
 
+#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBFinance.hk.png" group-title="HK",無綫財經資訊台 TVB Finance & Information
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
+
+#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="HK",明珠台 TVB Pearl
 http://m.567it.com/Pearl.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="HK",翡翠台 TVB Jade
 http://m.567it.com/jade.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="HK",翡翠台 TVB Jade II
+http://61.238.6.49:8000/bysid/1
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBXinghe.hk.png" group-title="HK",星河频道 TVB Xinghe
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
@@ -30,11 +39,44 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="HK",港台電視31 RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="HK",港台電視31 RTHK31 II
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HK",港台電視32 RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HK",港台電視32 RTHK32 II
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV99.hk.png" group-title="HK",ViuTV99
 http://hls.globaliptv.ml/viu99.php
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV99.hk.png" group-title="HK",ViuTV99 II
+http://61.238.6.49:8000/bysid/99
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV96.hk.png" group-title="HK",ViuTVsix96
 http://hls.globaliptv.ml/viu96.php
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV96.hk.png" group-title="HK",ViuTVsix96 II
+http://61.238.6.49:8000/bysid/96
+
+#EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="香港",有線綜合娱乐
+http://livetv.dnsfor.me/channel.7.m3u8
+
+#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有線新闻
+http://livetv.dnsfor.me:80/channel.5.m3u8
+
+#EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="香港",有線財經資訊
+http://livetv.dnsfor.me/channel.6.m3u8
+
+#EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="香港",Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="香港",澳視澳門台
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="香港",澳視MACAU
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="香港",澳視資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8

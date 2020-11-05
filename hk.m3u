@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBNews.hk.png" group-title="HK 香港",無綫新聞台 TVB News
 http://www.liveviptv.xyz/tv/tvb.php
 
-#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="HK 香港",無綫新聞台
+#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="HK 香港",無綫新聞台 TVB News II
 http://livetv.dnsfor.me/channel.10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBFinance.hk.png" group-title="HK 香港",無綫財經資訊台 TVB Finance & Information
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 
-#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="HK 香港",無綫財經資訊台
+#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="HK 香港",無綫財經資訊台 TVB Finance & Information II
 http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="HK 香港",明珠台 TVB Pearl

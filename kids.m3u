@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="Nick" group-title="Kids",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-ID="Nick" group-title="Kids",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSWGTV.us.png" group-title="Kids",PBS Kids
+http://live-cdn.pbskids.org/out/u/pst.m3u8
+
+#EXTINF:-1 tvg-ID="TVO Kids" group-title="Kids",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
 #EXTINF:-1 tvg-id="btvchild" group-title="Kids",卡酷少儿
 http://itv.ahau.edu.cn/hls/btv10.m3u8
 
@@ -9,38 +21,23 @@ http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="cctvchild" aspect-ratio="4:3" group-title="Kids",CCTV-14
 http://itv.ahau.edu.cn/hls/cctv14.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" tvg-country="TW" tvg-url="" group-title="Kids",靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" tvg-country="TW" tvg-url="" group-title="Kids",靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title="Kids",BabyFirst臺灣
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UK" tvg-url="" group-title="Kids",BBC Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UK" tvg-url="" group-title="Kids",Cbeebies
 http://51.52.156.22:8888/http/003
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSWGTV.us.png" group-title="Kids",PBS Kids 1
-http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/793150060917907456/jpJURr5n_400x400.jpg" group-title="",Battery Pop
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSWGTV.us.png" group-title="Kids",PBS Kids 2
-http://live-cdn.pbskids.org/out/u/pst.m3u8
+#EXTINF:-1, tvg-logo="http://mediad.publicbroadcasting.net/p/krwg/files/styles/x_large/public/201703/kids_0.jpg" group-title="Cartoons",PBS Kids Channel
+https://live-cdn.pbskids.org/out/u/est.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BabyFirstTV.us.png" group-title="Kids",BABY FIRSTS (TW)
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7149ZiRIyzL._SY355_.png" group-title="",Kabillion
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/Boomerang.ee.png" group-title="Kids",BOOMERANG (UAE)
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="General",Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/CartoonNetwork.ee.png" group-title="Kids",CARTOON NETWORK HD
-https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="General",Nick Jr.
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids",DISNEY CHANNEL (USA)
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="Kids",靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A.png" group-title="Kids",靖洋卡通 Nice Bingo
-http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1, tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_pocketWatch.png" group-title="",pocket.watch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-pocket-watch/CDN/master.m3u8

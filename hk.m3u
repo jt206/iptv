@@ -60,6 +60,9 @@ http://hls.globaliptv.ml/viu99.php
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV99.hk.png" group-title="HK 香港",ViuTV99 II
 http://61.238.6.49:8000/bysid/99
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV99.hk.png" group-title="HK 香港",ViuTV99 III
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV96.hk.png" group-title="HK 香港",ViuTVsix96
 http://hls.globaliptv.ml/viu96.php
 
